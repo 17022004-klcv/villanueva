@@ -1,0 +1,11 @@
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\bin\Debug\pr.exe.config
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\bin\Debug\pr.exe
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\bin\Debug\pr.pdb
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.csproj.AssemblyReference.cache
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.Form1.resources
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.login.resources
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.Properties.Resources.resources
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.csproj.GenerateResource.cache
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.csproj.CoreCompileInputs.cache
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.exe
+C:\Users\Karla\OneDrive\Escritorio\proyecto\pr\pr\obj\Debug\pr.pdb
